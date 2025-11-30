@@ -1,10 +1,10 @@
 Gerenciador de Tarefas
 
-Este projeto foi criado com a ideia de treinar Java de uma forma prática e simples. A proposta é ter um gerenciador de tarefas totalmente no console, onde é possível cadastrar, listar, atualizar e excluir tarefas com um fluxo direto e fácil de entender. O foco aqui foi aprender a organizar melhor o código e estruturar um pequeno sistema mesmo sem usar frameworks.
+projeto criado com a ideia de treinar Java de uma forma prática. A proposta é ter um gerenciador de tarefas totalmente no console, onde é possível cadastrar, listar, atualizar e excluir tarefas com um fluxo fácil de entender. O foco é aprender a organizar melhor o código e estruturar um pequeno sistema.
 
 Descrição do Projeto
 
-A aplicação funciona por meio de um menu no console, onde cada opção representa uma ação do sistema. As tarefas possuem título, descrição e data, e tudo foi organizado em diferentes camadas para facilitar a leitura e a manutenção do código. O projeto é pequeno, mas ajuda bastante a entender como dividir responsabilidades dentro de uma aplicação Java.
+A aplicação funciona por meio de um menu no console, onde cada opção representa uma ação do sistema. As tarefas possuem título, descrição e data, tudo foi organizado em diferentes camadas para facilitar a leitura e a manutenção do código. Projeto pequeno, mas ajuda bastante a entender como dividir responsabilidades dentro de uma aplicação Java.
 
 Como Executar
 
@@ -20,7 +20,7 @@ Assim que abrir, o menu aparece e você já consegue usar todas as funções dis
 
 Tecnologias Usadas
 
-O sistema foi desenvolvido apenas com Java, seguindo conceitos básicos de orientação a objetos. A estrutura segue o padrão de diretórios do Maven, mas sem dependências externas. É um projeto simples e ideal para estudos.
+O sistema foi desenvolvido apenas com Java. A estrutura segue o padrão de diretórios do Maven, mas sem dependências externas. É um projeto simples.
 
 Instruções de Compilação e Execução
 
